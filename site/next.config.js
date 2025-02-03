@@ -6,7 +6,7 @@ const nextConfig = {
     description: 'The official store for NerdsWork supported workspaces.',
     icon: 'https://tsxfire.github.io/kasm-repo/1.1/NerdsworkLogo.png',
     listUrl: 'https://tsxfire.github.io/kasm-repo/',
-    contactUrl: 'https://nerdswork.net/support',
+    contactUrl: 'https://github.com/tsxfire/kasm-repo/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
