@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'NerdsWork Registry',
     description: 'The official store for NerdsWork supported workspaces.',
-    icon: '\site\public\NerdsworkLogo.png',
+    icon: '/site/public/nerds-work-high-resolution-logo.svg',
     listUrl: 'https://github.com/tsxfire/kasm-repo/',
     contactUrl: 'https://nerdswork.net/support',
   },
