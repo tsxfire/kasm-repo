@@ -1,6 +1,6 @@
 {
   "friendly_name": "Debian-Custom",
-  "image_src": "blob:https://tsxfire.github.io/586aab77-f294-4c09-a31c-47adc32003c4",
+  "image_src": "Debian_logo.png",
   "description": "Nerds' Work Custom Debian",
   "cores": 8,
   "memory": 8192,
